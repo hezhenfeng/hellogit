@@ -9,6 +9,7 @@ public class FirstTest {
 
     public static  void check(){
         System.out.println("check");
+        System.out.println("local");
     }
 
 }
